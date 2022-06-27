@@ -2,6 +2,14 @@
 
 This project is created using Django running C language code in backend it uses TFHE library which takes 2 numbers as input and encript the numbers. Then those encrypted numbers are added and then the result is decrypted and decrypted result is visible on screen
 
+## To run the code 
+
+write python3 manage.py runserver in the terminal 
+
+![alt text](https://github.com/ishangupta-1510/TFHE-SUM-App/blob/main/Screenshot%20from%202022-06-27%2011-08-46.png?raw=true)
+
+![alt text](https://github.com/ishangupta-1510/TFHE-SUM-App/blob/main/Screenshot%20from%202022-06-27%2011-09-07.png?raw=true)
+
 TFHE is open-source software distributed under the terms of the Apache 2.0 license. The scheme is described in the paper "Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds" presented at the IACR conference Asiacrypt 2016 by Ilaria Chillotti, Nicolas Gama, Mariya Georgieva, Malika Izabachène.
 Description
 
